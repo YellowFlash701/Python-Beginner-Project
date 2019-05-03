@@ -1,6 +1,6 @@
 from random import choice
 
-rps = ('rock', 'paper', 'scissors')
+rps = ('rock', 'paper', 'scissors','bizz')
 rps_dict = {
     'rock': {'strong': 'scissors', 'weak': 'paper'},
     'paper': {'strong': 'rock', 'weak': 'scissors'},
